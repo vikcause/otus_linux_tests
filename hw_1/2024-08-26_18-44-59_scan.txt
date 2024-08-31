@@ -1,0 +1,29 @@
+{
+    "users": [
+        "avahi",
+        "colord",
+        "lp",
+        "message+",
+        "polkitd",
+        "root",
+        "rtkit",
+        "systemd+",
+        "vkozyr"
+    ],
+    "total_processes": 182,
+    "processes_per_user": {
+        "root": 91,
+        "systemd+": 1,
+        "avahi": 2,
+        "message+": 1,
+        "polkitd": 1,
+        "lp": 2,
+        "rtkit": 1,
+        "colord": 1,
+        "vkozyr": 82
+    },
+    "memory_usage": "90.1%",
+    "cpu_usage": "48.6%",
+    "max_memory_process": "/home/vkozyr/.local/share/JetBrains/Toolbox/apps/pycharm-community/jbr/bin/java",
+    "max_cpu_process": "/home/git_repos/otus_linux_tests/.venv/bin/python"
+}
