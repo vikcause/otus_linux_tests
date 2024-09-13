@@ -1,0 +1,35 @@
+{
+    "top_ips": {
+        "107.173.1.252": 3,
+        "46.119.122.97": 3,
+        "109.190.126.78": 2
+    },
+    "top_longest": [
+        {
+            "ip": "255.245.235.225",
+            "date": "[24/Sep/2019:22:07:48 +0200]",
+            "method": "GET",
+            "url": "-",
+            "duration": 10001
+        },
+        {
+            "ip": "46.119.122.97",
+            "date": "[24/Sep/2019:21:41:30 +0200]",
+            "method": "GET",
+            "url": "https://ridero.ru/books/patriarkh",
+            "duration": 6927
+        },
+        {
+            "ip": "92.217.235.69",
+            "date": "[21/Jun/2018:09:16:17 +0200]",
+            "method": "DELETE",
+            "url": "-",
+            "duration": 10002
+        }
+    ],
+    "total_stat": {
+        "GET": 10,
+        "DELETE": 1
+    },
+    "total_requests": 11
+}
